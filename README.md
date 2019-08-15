@@ -6,6 +6,8 @@ A Fake Api json response dataset for event management tasks
 - Categories: https://my-json-server.typicode.com/edocabhi/fake-API-EventSchedule/categories
 - Events: https://my-json-server.typicode.com/edocabhi/fake-API-EventSchedule/events
 
+Data source - db.json
+
 
 # Routes
 All HTTP methods are supported.
