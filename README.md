@@ -10,7 +10,7 @@ A Fake Api json response dataset for event management tasks
 # Routes
 All HTTP methods are supported.
 
-GET POST PUT PATCH DELETE
+GET / POST / PUT / PATCH / DELETE
 
 Check the Guide: https://jsonplaceholder.typicode.com/guide.html
 
