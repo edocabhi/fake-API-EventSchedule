@@ -1,0 +1,68 @@
+
+{
+  "events": [
+    { "id": 1, 
+      "name": "Zumba Party",
+      "venue": "Bowland Lausanne-Flon",
+      "image":
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxedyP5yJaHZueVWeTa0YKtbWjoUkQwANeZrOEfvFkXWkRnd8k",
+      "address": "1003, Lausanne"
+     },
+    { "id": 2, 
+      "name": "Bowling",
+      "venue": "Bowland Lausanne-Flon",
+      "image":
+          "https://funworld.ie/wp-content/uploads/2017/06/bowling-Funworld.jpg",
+      "address": "1003, Lausanne"
+    },
+    { "id": 3, 
+      "name": "Tabata",
+      "venue": "Bowland Lausanne-Flon",
+      "image": "https://www.active.com/Assets/Fitness/tabata-620.jpg",
+      "address": "1003, Lausanne"
+    },
+    { "id": 4,
+      "name": "Calisthenics",
+      "venue": "Bowland Lausanne-Flon",
+      "image":
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5PaTT-9zf4We0y_TwHWoLZoZ-iZjG0482-A2CCQ2UBLf9swoz",
+      "address": "1003, Lausanne"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Sport",
+      "image":
+          "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "count": 140
+    },
+    {
+      "name": "Culture",
+      "image":
+          "https://www.antiquitesetart.com/2290-thickbox_default/gilded-bronze-statuette-of-shiva-nataraja.jpg",
+      "count": 40
+    },
+    {
+      "name": "Party",
+      "image": "https://seda.college/wp-content/uploads/party.jpg",
+      "count": 17
+    },
+    {
+      "name": "Sport",
+      "image":
+          "https://images.unsplash.com/photo-1521412644187-c49fa049e84d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+      "count": 140
+    },
+    {
+      "name": "Culture",
+      "image":
+          "https://www.antiquitesetart.com/2290-thickbox_default/gilded-bronze-statuette-of-shiva-nataraja.jpg",
+      "count": 40
+    },
+    {
+      "name": "Party",
+      "image": "https://seda.college/wp-content/uploads/party.jpg",
+      "count": 17
+    },
+  ],
+}
